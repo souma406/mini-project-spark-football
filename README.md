@@ -43,7 +43,7 @@ cd /home/jovyan/work/
 
 ```bash
 cd /home/jovyan/work/
-git clone https://github.com/OumouMohamedBa/mini-projet-football
+git clone https://github.com/souma406/mini-project-spark-football.git
 cd mini-project-spark-football
 ```
 
@@ -167,5 +167,5 @@ The `stream_job.py` script dynamically calculates:
 ---
 
 **Author:** Soumeye Ebi El Maaly  
-**Academic Year:** 2025--2026  
+**Academic Year:** 2026  
 **Project:** Big Data Pipeline for Football Match Prediction

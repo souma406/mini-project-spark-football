@@ -27,7 +27,7 @@
 }
 
 % Colors
-\definecolor{primary}{RGB}{41,98,255}
+\definecolor{primary}{RGB}{0,100,0}  % Dark Green
 \definecolor{secondary}{RGB}{255,111,97}
 \definecolor{accent}{RGB}{0,200,83}
 \definecolor{dark}{RGB}{33,37,41}
@@ -87,26 +87,30 @@
         \draw[primary, line width=2pt] (0,0) -- (12,0);
     \end{tikzpicture}
 }
-\author{
-    \textbf{Soumeye Ebi El Maaly}\\
-    \small Academic Year 2025--2026
-}
+\author{}
 \date{}
 
 \begin{document}
 
 % Title page
-\maketitle
 \thispagestyle{empty}
-\vfill
 \begin{center}
-    \textcolor{gray}{\small\textit{Built with Apache Spark, Kafka, and MLlib}}
+    \vspace*{1cm}
+    {\Huge\bfseries\textcolor{primary}{Mini-Project Report}}\\[0.5cm]
+    {\LARGE\textcolor{dark}{Big Data Pipeline for Football Match Prediction}}\\[0.3cm]
+    {\large\textcolor{gray}{Spark Streaming \& Machine Learning -- Mauritanian League}}\\[0.8cm]
+    \begin{tikzpicture}
+        \draw[primary, line width=2pt] (0,0) -- (12,0);
+    \end{tikzpicture}\\[1.5cm]
+    {\Large\textbf{Soumeye Ebi El Maaly}}\\[0.3cm]
+    {\small Academic Year 2025--2026}\\[2cm]
+    {\small\textcolor{gray}{\textit{Built with Apache Spark, Kafka, and MLlib}}}\\[0.5cm]
+    {\small\textcolor{gray}{GitHub: \url{https://github.com/souma406/mini-project-spark-football.git}}}
 \end{center}
+\vfill
 \newpage
 
-% Table of Contents
-\tableofcontents
-\newpage
+% Skip Contents page - go directly to content
 
 % ============================================
 \section{Introduction}
@@ -255,7 +259,7 @@ Finally, we apply the model to the test data to evaluate its Accuracy. The resul
 
 \vfill
 \begin{center}
-\textcolor{gray}{\small\textbf{GitHub Repository:} [Insert your GitHub link here]}
+\textcolor{gray}{\small\textbf{GitHub Repository:} \url{https://github.com/souma406/mini-project-spark-football.git}}
 \end{center}
 
 \end{document}
