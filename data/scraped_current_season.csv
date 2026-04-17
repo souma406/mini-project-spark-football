@@ -1,0 +1,109 @@
+season,date,home_team,away_team,home_goals,away_goals,match_id
+2025-2026,2026-04-15,Gendrim,Tevragh-Zeina,1,1,2025-2026_2026-04-15_Gendrim_Tevragh-Zeina
+2025-2026,2026-04-15,Nouakchott Academy,Police,0,0,2025-2026_2026-04-15_Nouakchott Academy_Police
+2025-2026,2026-04-15,Chemal,Douane,1,1,2025-2026_2026-04-15_Chemal_Douane
+2025-2026,2026-04-15,Kaedi,Nzeidane,2,2,2025-2026_2026-04-15_Kaedi_Nzeidane
+2025-2026,2026-04-15,SNIM,Nouakchott King's,1,3,2025-2026_2026-04-15_SNIM_Nouakchott King's
+2025-2026,2026-04-15,Nouadhibou,Ksar,5,0,2025-2026_2026-04-15_Nouadhibou_Ksar
+2025-2026,2026-04-15,Pompiers,Inter Nouakchott,3,1,2025-2026_2026-04-15_Pompiers_Inter Nouakchott
+2025-2026,2026-04-15,Douane,Nouakchott Academy,1,1,2025-2026_2026-04-15_Douane_Nouakchott Academy
+2025-2026,2026-04-15,Gendrim,Kaedi,1,0,2025-2026_2026-04-15_Gendrim_Kaedi
+2025-2026,2026-04-15,Tevragh-Zeina,Inter Nouakchott,3,0,2025-2026_2026-04-15_Tevragh-Zeina_Inter Nouakchott
+2025-2026,2026-04-15,Ksar,Chemal,1,0,2025-2026_2026-04-15_Ksar_Chemal
+2025-2026,2026-04-15,Police,SNIM,1,2,2025-2026_2026-04-15_Police_SNIM
+2025-2026,2026-04-15,Nzeidane,Nouadhibou,2,1,2025-2026_2026-04-15_Nzeidane_Nouadhibou
+2025-2026,2026-04-15,Nouakchott King's,Pompiers,0,0,2025-2026_2026-04-15_Nouakchott King's_Pompiers
+2025-2026,2026-04-15,Nouadhibou,Gendrim,3,1,2025-2026_2026-04-15_Nouadhibou_Gendrim
+2025-2026,2026-04-15,Nouakchott Academy,Ksar,2,0,2025-2026_2026-04-15_Nouakchott Academy_Ksar
+2025-2026,2026-04-15,Inter Nouakchott,Nouakchott King's,0,2,2025-2026_2026-04-15_Inter Nouakchott_Nouakchott King's
+2025-2026,2026-04-15,Chemal,Nzeidane,2,0,2025-2026_2026-04-15_Chemal_Nzeidane
+2025-2026,2026-04-15,Pompiers,Police,1,0,2025-2026_2026-04-15_Pompiers_Police
+2025-2026,2026-04-15,Gendrim,Chemal,2,1,2025-2026_2026-04-15_Gendrim_Chemal
+2025-2026,2026-04-15,Police,Inter Nouakchott,0,0,2025-2026_2026-04-15_Police_Inter Nouakchott
+2025-2026,2026-04-15,Tevragh-Zeina,Nouakchott King's,2,2,2025-2026_2026-04-15_Tevragh-Zeina_Nouakchott King's
+2025-2026,2026-04-15,Ksar,SNIM,2,2,2025-2026_2026-04-15_Ksar_SNIM
+2025-2026,2026-04-15,Douane,Pompiers,2,1,2025-2026_2026-04-15_Douane_Pompiers
+2025-2026,2026-04-15,Chemal,Kaedi,2,0,2025-2026_2026-04-15_Chemal_Kaedi
+2025-2026,2026-04-15,Nouadhibou,Tevragh-Zeina,0,0,2025-2026_2026-04-15_Nouadhibou_Tevragh-Zeina
+2025-2026,2026-04-15,Nouakchott King's,Police,0,2,2025-2026_2026-04-15_Nouakchott King's_Police
+2025-2026,2026-04-15,Nouakchott Academy,Gendrim,1,1,2025-2026_2026-04-15_Nouakchott Academy_Gendrim
+2025-2026,2026-04-15,Inter Nouakchott,Douane,2,3,2025-2026_2026-04-15_Inter Nouakchott_Douane
+2025-2026,2026-04-15,Pompiers,Ksar,2,2,2025-2026_2026-04-15_Pompiers_Ksar
+2025-2026,2026-04-15,Tevragh-Zeina,Police,4,0,2025-2026_2026-04-15_Tevragh-Zeina_Police
+2025-2026,2026-04-15,Gendrim,SNIM,0,0,2025-2026_2026-04-15_Gendrim_SNIM
+2025-2026,2026-04-15,Nouadhibou,Chemal,4,0,2025-2026_2026-04-15_Nouadhibou_Chemal
+2025-2026,2026-04-15,Nzeidane,Pompiers,0,1,2025-2026_2026-04-15_Nzeidane_Pompiers
+2025-2026,2026-04-15,Douane,Nouakchott King's,1,0,2025-2026_2026-04-15_Douane_Nouakchott King's
+2025-2026,2026-04-15,Kaedi,Nouakchott Academy,1,0,2025-2026_2026-04-15_Kaedi_Nouakchott Academy
+2025-2026,2026-04-15,Ksar,Inter Nouakchott,3,2,2025-2026_2026-04-15_Ksar_Inter Nouakchott
+2025-2026,2026-04-15,Pompiers,Gendrim,0,0,2025-2026_2026-04-15_Pompiers_Gendrim
+2025-2026,2026-04-15,Nouakchott Academy,Nouadhibou,1,2,2025-2026_2026-04-15_Nouakchott Academy_Nouadhibou
+2025-2026,2026-04-15,Inter Nouakchott,Nzeidane,2,0,2025-2026_2026-04-15_Inter Nouakchott_Nzeidane
+2025-2026,2026-04-15,Chemal,Tevragh-Zeina,0,2,2025-2026_2026-04-15_Chemal_Tevragh-Zeina
+2025-2026,2026-04-15,Police,Douane,1,1,2025-2026_2026-04-15_Police_Douane
+2025-2026,2026-04-15,SNIM,Kaedi,1,1,2025-2026_2026-04-15_SNIM_Kaedi
+2025-2026,2026-04-15,Nouakchott King's,Ksar,2,2,2025-2026_2026-04-15_Nouakchott King's_Ksar
+2025-2026,2026-04-15,Chemal,Nouakchott Academy,0,0,2025-2026_2026-04-15_Chemal_Nouakchott Academy
+2025-2026,2026-04-15,Gendrim,Inter Nouakchott,0,0,2025-2026_2026-04-15_Gendrim_Inter Nouakchott
+2025-2026,2026-04-15,Kaedi,Pompiers,1,1,2025-2026_2026-04-15_Kaedi_Pompiers
+2025-2026,2026-04-15,Ksar,Police,1,1,2025-2026_2026-04-15_Ksar_Police
+2025-2026,2026-04-15,Nzeidane,Nouakchott King's,2,6,2025-2026_2026-04-15_Nzeidane_Nouakchott King's
+2025-2026,2026-04-15,Tevragh-Zeina,Douane,0,0,2025-2026_2026-04-15_Tevragh-Zeina_Douane
+2025-2026,2026-04-15,Nouadhibou,"SNIM
+2",0,0,"2025-2026_2026-04-15_Nouadhibou_SNIM
+2"
+2025-2026,2026-04-15,Nouakchott Academy,Tevragh-Zeina,3,1,2025-2026_2026-04-15_Nouakchott Academy_Tevragh-Zeina
+2025-2026,2026-04-15,Pompiers,Nouadhibou,0,4,2025-2026_2026-04-15_Pompiers_Nouadhibou
+2025-2026,2026-04-15,Police,Nzeidane,1,2,2025-2026_2026-04-15_Police_Nzeidane
+2025-2026,2026-04-15,Nouakchott King's,Gendrim,2,0,2025-2026_2026-04-15_Nouakchott King's_Gendrim
+2025-2026,2026-04-15,Inter Nouakchott,Kaedi,1,1,2025-2026_2026-04-15_Inter Nouakchott_Kaedi
+2025-2026,2026-04-15,SNIM,Chemal,2,1,2025-2026_2026-04-15_SNIM_Chemal
+2025-2026,2026-04-15,Douane,Ksar,3,0,2025-2026_2026-04-15_Douane_Ksar
+2025-2026,2026-04-15,Nouadhibou,Kaedi,1,0,2025-2026_2026-04-15_Nouadhibou_Kaedi
+2025-2026,2026-04-15,Police,Gendrim,2,1,2025-2026_2026-04-15_Police_Gendrim
+2025-2026,2026-04-15,Pompiers,Chemal,1,2,2025-2026_2026-04-15_Pompiers_Chemal
+2025-2026,2026-04-15,Douane,Nzeidane,0,1,2025-2026_2026-04-15_Douane_Nzeidane
+2025-2026,2026-04-15,SNIM,Nouakchott Academy,0,0,2025-2026_2026-04-15_SNIM_Nouakchott Academy
+2025-2026,2026-04-15,Tevragh-Zeina,Ksar,0,2,2025-2026_2026-04-15_Tevragh-Zeina_Ksar
+2025-2026,2026-04-15,Inter Nouakchott,Nouadhibou,0,2,2025-2026_2026-04-15_Inter Nouakchott_Nouadhibou
+2025-2026,2026-04-15,Kaedi,Nouakchott King's,0,0,2025-2026_2026-04-15_Kaedi_Nouakchott King's
+2025-2026,2026-04-15,Nouadhibou,Nouakchott King's,1,1,2025-2026_2026-04-15_Nouadhibou_Nouakchott King's
+2025-2026,2026-04-15,Nouakchott Academy,Pompiers,1,2,2025-2026_2026-04-15_Nouakchott Academy_Pompiers
+2025-2026,2026-04-15,Gendrim,Douane,0,1,2025-2026_2026-04-15_Gendrim_Douane
+2025-2026,2026-04-15,Chemal,Inter Nouakchott,3,1,2025-2026_2026-04-15_Chemal_Inter Nouakchott
+2025-2026,2026-04-15,Kaedi,Police,0,4,2025-2026_2026-04-15_Kaedi_Police
+2025-2026,2026-04-15,Nzeidane,Ksar,1,0,2025-2026_2026-04-15_Nzeidane_Ksar
+2025-2026,2026-04-15,SNIM,Tevragh-Zeina,1,1,2025-2026_2026-04-15_SNIM_Tevragh-Zeina
+2025-2026,2026-04-15,Nouadhibou,Nouakchott Academy,0,0,2025-2026_2026-04-15_Nouadhibou_Nouakchott Academy
+2025-2026,2026-04-15,Ksar,Gendrim,0,1,2025-2026_2026-04-15_Ksar_Gendrim
+2025-2026,2026-04-15,Nouakchott King's,Chemal,1,1,2025-2026_2026-04-15_Nouakchott King's_Chemal
+2025-2026,2026-04-15,Pompiers,SNIM,1,1,2025-2026_2026-04-15_Pompiers_SNIM
+2025-2026,2026-04-15,Douane,Kaedi,1,0,2025-2026_2026-04-15_Douane_Kaedi
+2025-2026,2026-04-15,Police,Nouadhibou,1,1,2025-2026_2026-04-15_Police_Nouadhibou
+2025-2026,2026-04-15,Inter Nouakchott,Nouakchott Academy,0,2,2025-2026_2026-04-15_Inter Nouakchott_Nouakchott Academy
+2025-2026,2026-04-15,Tevragh-Zeina,Nzeidane,2,2,2025-2026_2026-04-15_Tevragh-Zeina_Nzeidane
+2025-2026,2026-04-15,Nouadhibou,Douane,3,2,2025-2026_2026-04-15_Nouadhibou_Douane
+2025-2026,2026-04-15,Chemal,Police,1,1,2025-2026_2026-04-15_Chemal_Police
+2025-2026,2026-04-15,SNIM,Inter Nouakchott,3,2,2025-2026_2026-04-15_SNIM_Inter Nouakchott
+2025-2026,2026-04-15,Kaedi,Ksar,1,1,2025-2026_2026-04-15_Kaedi_Ksar
+2025-2026,2026-04-15,Nouakchott Academy,Nouakchott King's,2,0,2025-2026_2026-04-15_Nouakchott Academy_Nouakchott King's
+2025-2026,2026-04-15,Gendrim,Nzeidane,1,2,2025-2026_2026-04-15_Gendrim_Nzeidane
+2025-2026,2026-04-15,Pompiers,Tevragh-Zeina,1,0,2025-2026_2026-04-15_Pompiers_Tevragh-Zeina
+2025-2026,2026-04-15,Ksar,Nouadhibou,0,2,2025-2026_2026-04-15_Ksar_Nouadhibou
+2025-2026,2026-04-15,Nouakchott King's,SNIM,2,3,2025-2026_2026-04-15_Nouakchott King's_SNIM
+2025-2026,2026-04-15,Police,Nouakchott Academy,0,1,2025-2026_2026-04-15_Police_Nouakchott Academy
+2025-2026,2026-04-15,Douane,Chemal,0,3,2025-2026_2026-04-15_Douane_Chemal
+2025-2026,2026-04-15,Nzeidane,Kaedi,4,3,2025-2026_2026-04-15_Nzeidane_Kaedi
+2025-2026,2026-04-15,Tevragh-Zeina,Gendrim,1,2,2025-2026_2026-04-15_Tevragh-Zeina_Gendrim
+2025-2026,2026-04-15,Inter Nouakchott,Pompiers,1,2,2025-2026_2026-04-15_Inter Nouakchott_Pompiers
+2025-2026,2026-04-15,SNIM,Nouadhibou,0,1,2025-2026_2026-04-15_SNIM_Nouadhibou
+2025-2026,2026-04-15,Nouakchott Academy,Douane,2,4,2025-2026_2026-04-15_Nouakchott Academy_Douane
+2025-2026,2026-04-15,Inter Nouakchott,Tevragh-Zeina,0,0,2025-2026_2026-04-15_Inter Nouakchott_Tevragh-Zeina
+2025-2026,2026-04-15,Kaedi,Gendrim,0,0,2025-2026_2026-04-15_Kaedi_Gendrim
+2025-2026,2026-04-15,Nouadhibou,Nzeidane,2,1,2025-2026_2026-04-15_Nouadhibou_Nzeidane
+2025-2026,2026-04-15,Chemal,Ksar,1,0,2025-2026_2026-04-15_Chemal_Ksar
+2025-2026,2026-04-15,SNIM,Police,1,1,2025-2026_2026-04-15_SNIM_Police
+2025-2026,2026-04-15,Pompiers,"Nouakchott King's
+2",2,0,"2025-2026_2026-04-15_Pompiers_Nouakchott King's
+2"
+2025-2026,2026-04-15,Gendrim,Nouadhibou,0,2,2025-2026_2026-04-15_Gendrim_Nouadhibou
